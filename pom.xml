@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>ru.naumen</groupId>
-  <artifactId>Encapsulation</artifactId>
+  <artifactId>EncapsulationStory</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>Encapsulation</name>
+  <name>EncapsulationStory</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
